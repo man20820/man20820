@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @man20820
 - 👀 I’m interested in web programming
-- 🌱 I’m currently learning laravel
+- 🌱 I’m currently learning javascript
 <!--- 💞️ I’m looking to collaborate on ... --->
 - 📫 How to reach me fb.com/man20820
 
