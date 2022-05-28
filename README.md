@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @man20820
+# 👋 Hi, I’m @man20820
 - 👀 I’m interested in web programming
-- 🌱 I’m currently learning javascript
-<!--- 💞️ I’m looking to collaborate on ... --->
+- 🌱 I’m currently learning javascript nodejs
 - 📫 How to reach me man@tkjpedia.com
+
+<!--- 💞️ I’m looking to collaborate on ... --->
 
 ![](https://komarev.com/ghpvc/?username=man20820)
 
