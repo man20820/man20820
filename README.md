@@ -2,7 +2,7 @@
 - 👀 I’m interested in web programming
 - 🌱 I’m currently learning javascript
 <!--- 💞️ I’m looking to collaborate on ... --->
-- 📫 How to reach me fb.com/man20820
+- 📫 How to reach me man@tkjpedia.com
 
 <!---
 man20820/man20820 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
